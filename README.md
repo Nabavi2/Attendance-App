@@ -1,16 +1,3 @@
-# attendance
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application developed with Flutter.
+It's UI is designed with Flutter styles and it's backend is handled with Laravel( Laravel one the PHP's framework). It has to user many user level for example for Manager of organization, for teacher of class for students and etc.
+You can use this application for your Course, School and also for get attendance in a small company.
